@@ -1,0 +1,10 @@
+name = "Avishka Dilshan"
+print(len(name))
+print(name.upper())
+print(name.lower())
+print(name.find('h'))
+print(name.find('Dil'))
+print(name.replace('Avishka','Rankoth Gedara Avishka'))
+print(name.replace('a','X'))
+print('Avishka' in name)
+print(name.title())
